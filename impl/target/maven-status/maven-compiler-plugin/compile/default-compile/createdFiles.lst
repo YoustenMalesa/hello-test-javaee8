@@ -1,0 +1,4 @@
+za/co/playit/api/impl/ToDoServiceImpl.class
+za/co/playit/soap/ToDoSoapApi.class
+za/co/playit/rest/ToDoRestApi.class
+za/co/playit/rest/RestApplicationConfig.class
